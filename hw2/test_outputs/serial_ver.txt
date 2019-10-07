@@ -1,0 +1,12 @@
+NOTE: there is no enq for serial, so #packets that match enq should = 0
+
+src: 0 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 1 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 2 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 3 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 4 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 5 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 6 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 7 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 8 number of unique packets for this source: 10 number of packets that match enq: 0
+src: 9 number of unique packets for this source: 10 number of packets that match enq: 0

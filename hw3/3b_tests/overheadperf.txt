@@ -1,0 +1,1350 @@
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3658769
+Thread 0 Processed: 3658761 packets
+Total number of packets processed: 3658761
+Checksum Total: 123281835256057153
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3599560
+Thread 0 Processed: 3599553 packets
+Total number of packets processed: 3599553
+Checksum Total: 122408324340797517
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3039406
+Thread 0 Processed: 3039398 packets
+Total number of packets processed: 3039398
+Checksum Total: 103913351289087922
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 2235180
+Thread 0 Processed: 2235172 packets
+Total number of packets processed: 2235172
+Checksum Total: 76683522178810896
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 1471762
+Thread 0 Processed: 1471755 packets
+Total number of packets processed: 1471755
+Checksum Total: 50506857048792658
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 868153
+Thread 0 Processed: 868145 packets
+Total number of packets processed: 868145
+Checksum Total: 29814497879164051
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4970231
+Thread 0 Processed: 4970225 packets
+Total number of packets processed: 4970225
+Checksum Total: 167485832903476871
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3496686
+Thread 0 Processed: 3496679 packets
+Total number of packets processed: 3496679
+Checksum Total: 118910422931023596
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2927049
+Thread 0 Processed: 2927041 packets
+Total number of packets processed: 2927041
+Checksum Total: 100075375400360375
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2212182
+Thread 0 Processed: 2212174 packets
+Total number of packets processed: 2212174
+Checksum Total: 75896122511308810
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1450388
+Thread 0 Processed: 1450380 packets
+Total number of packets processed: 1450380
+Checksum Total: 49775544950057705
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 858631
+Thread 0 Processed: 858622 packets
+Total number of packets processed: 858622
+Checksum Total: 29488599318404450
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4021499
+Thread 0 Processed: 4021493 packets
+Total number of packets processed: 4021493
+Checksum Total: 135492719127752189
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3414736
+Thread 0 Processed: 3414728 packets
+Total number of packets processed: 3414728
+Checksum Total: 116126402337494497
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2862572
+Thread 0 Processed: 2862564 packets
+Total number of packets processed: 2862564
+Checksum Total: 97874389247441497
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2159236
+Thread 0 Processed: 2159227 packets
+Total number of packets processed: 2159227
+Checksum Total: 74083325387607704
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1430897
+Thread 0 Processed: 1430889 packets
+Total number of packets processed: 1430889
+Checksum Total: 49106533049268464
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 853588
+Thread 0 Processed: 853579 packets
+Total number of packets processed: 853579
+Checksum Total: 29315622076811891
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3863868
+Thread 0 Processed: 3863861 packets
+Total number of packets processed: 3863861
+Checksum Total: 130194519083329800
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3457509
+Thread 0 Processed: 3457502 packets
+Total number of packets processed: 3457502
+Checksum Total: 117582371983925793
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2865931
+Thread 0 Processed: 2865923 packets
+Total number of packets processed: 2865923
+Checksum Total: 97989761093071550
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2163238
+Thread 0 Processed: 2163230 packets
+Total number of packets processed: 2163230
+Checksum Total: 74221006084790807
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1436300
+Thread 0 Processed: 1436292 packets
+Total number of packets processed: 1436292
+Checksum Total: 49291233299858046
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 854638
+Thread 0 Processed: 854629 packets
+Total number of packets processed: 854629
+Checksum Total: 29350195877029684
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 5040849
+Thread 0 Processed: 5040845 packets
+Total number of packets processed: 5040845
+Checksum Total: 169866635039949865
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3521454
+Thread 0 Processed: 3521447 packets
+Total number of packets processed: 3521447
+Checksum Total: 119749641846209330
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3009644
+Thread 0 Processed: 3009636 packets
+Total number of packets processed: 3009636
+Checksum Total: 102899890209793190
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2187360
+Thread 0 Processed: 2187352 packets
+Total number of packets processed: 2187352
+Checksum Total: 75046662098454315
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1446774
+Thread 0 Processed: 1446765 packets
+Total number of packets processed: 1446765
+Checksum Total: 49651705894673062
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 860206
+Thread 0 Processed: 860198 packets
+Total number of packets processed: 860198
+Checksum Total: 29543275704638229
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 5320580
+Thread 0 Processed: 5320574 packets
+Total number of packets processed: 5320574
+Checksum Total: 179281684775895424
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3843067
+Thread 0 Processed: 3843060 packets
+Total number of packets processed: 3843060
+Checksum Total: 130696310153386849
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3020117
+Thread 0 Processed: 3020109 packets
+Total number of packets processed: 3020109
+Checksum Total: 103258755051639302
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 2278161
+Thread 0 Processed: 2278153 packets
+Total number of packets processed: 2278153
+Checksum Total: 78164366668499053
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 1480686
+Thread 0 Processed: 1480677 packets
+Total number of packets processed: 1480677
+Checksum Total: 50812706551912555
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 866694
+Thread 0 Processed: 866685 packets
+Total number of packets processed: 866685
+Checksum Total: 29765212923438805
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4033480
+Thread 0 Processed: 4033473 packets
+Total number of packets processed: 4033473
+Checksum Total: 135893936215325224
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3483459
+Thread 0 Processed: 3483452 packets
+Total number of packets processed: 3483452
+Checksum Total: 118462444886572058
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2955370
+Thread 0 Processed: 2955362 packets
+Total number of packets processed: 2955362
+Checksum Total: 101042987186599796
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2199196
+Thread 0 Processed: 2199189 packets
+Total number of packets processed: 2199189
+Checksum Total: 75453025256575518
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1445176
+Thread 0 Processed: 1445167 packets
+Total number of packets processed: 1445167
+Checksum Total: 49596276012629812
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 863152
+Thread 0 Processed: 863143 packets
+Total number of packets processed: 863143
+Checksum Total: 29643088192786948
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3760730
+Thread 0 Processed: 3760722 packets
+Total number of packets processed: 3760722
+Checksum Total: 126719913201360405
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3440369
+Thread 0 Processed: 3440361 packets
+Total number of packets processed: 3440361
+Checksum Total: 117000164175748406
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2894764
+Thread 0 Processed: 2894756 packets
+Total number of packets processed: 2894756
+Checksum Total: 98975850523139510
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2151152
+Thread 0 Processed: 2151149 packets
+Total number of packets processed: 2151149
+Checksum Total: 73805400754942647
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1426066
+Thread 0 Processed: 1426058 packets
+Total number of packets processed: 1426058
+Checksum Total: 48941627642073430
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 853544
+Thread 0 Processed: 853535 packets
+Total number of packets processed: 853535
+Checksum Total: 29314140871852347
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 5050442
+Thread 0 Processed: 5050437 packets
+Total number of packets processed: 5050437
+Checksum Total: 170186918424626057
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3454530
+Thread 0 Processed: 3454523 packets
+Total number of packets processed: 3454523
+Checksum Total: 117481026141006946
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2922720
+Thread 0 Processed: 2922711 packets
+Total number of packets processed: 2922711
+Checksum Total: 99927165482050387
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2167059
+Thread 0 Processed: 2167052 packets
+Total number of packets processed: 2167052
+Checksum Total: 74352482740117087
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1451918
+Thread 0 Processed: 1451910 packets
+Total number of packets processed: 1451910
+Checksum Total: 49827697209617246
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 858679
+Thread 0 Processed: 858671 packets
+Total number of packets processed: 858671
+Checksum Total: 29490219298566673
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4082712
+Thread 0 Processed: 4082705 packets
+Total number of packets processed: 4082705
+Checksum Total: 137548950614711771
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3498297
+Thread 0 Processed: 3498289 packets
+Total number of packets processed: 3498289
+Checksum Total: 118964672978082478
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2953334
+Thread 0 Processed: 2953326 packets
+Total number of packets processed: 2953326
+Checksum Total: 100974952340044153
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2186893
+Thread 0 Processed: 2186886 packets
+Total number of packets processed: 2186886
+Checksum Total: 75030777028808107
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1449115
+Thread 0 Processed: 1449106 packets
+Total number of packets processed: 1449106
+Checksum Total: 49732048784006919
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 859586
+Thread 0 Processed: 859577 packets
+Total number of packets processed: 859577
+Checksum Total: 29522067705585305
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 4540332
+Thread 0 Processed: 4540329 packets
+Total number of packets processed: 4540329
+Checksum Total: 152980343464454493
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3563856
+Thread 0 Processed: 3563849 packets
+Total number of packets processed: 3563849
+Checksum Total: 121197286845533863
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3022324
+Thread 0 Processed: 3022316 packets
+Total number of packets processed: 3022316
+Checksum Total: 103333469309160948
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 2232611
+Thread 0 Processed: 2232603 packets
+Total number of packets processed: 2232603
+Checksum Total: 76593655850537351
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 1470810
+Thread 0 Processed: 1470802 packets
+Total number of packets processed: 1470802
+Checksum Total: 50474250246964510
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 869532
+Thread 0 Processed: 869523 packets
+Total number of packets processed: 869523
+Checksum Total: 29862278708484042
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4010761
+Thread 0 Processed: 4010755 packets
+Total number of packets processed: 4010755
+Checksum Total: 135132389184314983
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3460301
+Thread 0 Processed: 3460294 packets
+Total number of packets processed: 3460294
+Checksum Total: 117675508035799144
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2929855
+Thread 0 Processed: 2929847 packets
+Total number of packets processed: 2929847
+Checksum Total: 100169124565551699
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2191293
+Thread 0 Processed: 2191284 packets
+Total number of packets processed: 2191284
+Checksum Total: 75180510427106424
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1444099
+Thread 0 Processed: 1444090 packets
+Total number of packets processed: 1444090
+Checksum Total: 49560304850915110
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 859281
+Thread 0 Processed: 859273 packets
+Total number of packets processed: 859273
+Checksum Total: 29510918455039580
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4258303
+Thread 0 Processed: 4258296 packets
+Total number of packets processed: 4258296
+Checksum Total: 143475910880863545
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3384371
+Thread 0 Processed: 3384364 packets
+Total number of packets processed: 3384364
+Checksum Total: 115091179112133905
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2874263
+Thread 0 Processed: 2874255 packets
+Total number of packets processed: 2874255
+Checksum Total: 98274650169065467
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2145403
+Thread 0 Processed: 2145395 packets
+Total number of packets processed: 2145395
+Checksum Total: 73605722499394964
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1431607
+Thread 0 Processed: 1431598 packets
+Total number of packets processed: 1431598
+Checksum Total: 49131412368882156
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 851700
+Thread 0 Processed: 851691 packets
+Total number of packets processed: 851691
+Checksum Total: 29250331415396691
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3954661
+Thread 0 Processed: 3954654 packets
+Total number of packets processed: 3954654
+Checksum Total: 133250595648922669
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3464235
+Thread 0 Processed: 3464227 packets
+Total number of packets processed: 3464227
+Checksum Total: 117810278852948796
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2938719
+Thread 0 Processed: 2938711 packets
+Total number of packets processed: 2938711
+Checksum Total: 100472139486863678
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2166826
+Thread 0 Processed: 2166817 packets
+Total number of packets processed: 2166817
+Checksum Total: 74344677021184061
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1448736
+Thread 0 Processed: 1448728 packets
+Total number of packets processed: 1448728
+Checksum Total: 49719157029825434
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 863868
+Thread 0 Processed: 863860 packets
+Total number of packets processed: 863860
+Checksum Total: 29666925912610951
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4761298
+Thread 0 Processed: 4761292 packets
+Total number of packets processed: 4761292
+Checksum Total: 160424953384154063
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3529238
+Thread 0 Processed: 3529231 packets
+Total number of packets processed: 3529231
+Checksum Total: 120014455074977822
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2929108
+Thread 0 Processed: 2929101 packets
+Total number of packets processed: 2929101
+Checksum Total: 100143990231055972
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2202778
+Thread 0 Processed: 2202769 packets
+Total number of packets processed: 2202769
+Checksum Total: 75576492338972388
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1450831
+Thread 0 Processed: 1450823 packets
+Total number of packets processed: 1450823
+Checksum Total: 49790622054216292
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 861690
+Thread 0 Processed: 861682 packets
+Total number of packets processed: 861682
+Checksum Total: 29594110781001118
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 4997717
+Thread 0 Processed: 4997709 packets
+Total number of packets processed: 4997709
+Checksum Total: 168412629893192855
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3720390
+Thread 0 Processed: 3720383 packets
+Total number of packets processed: 3720383
+Checksum Total: 126532192679162916
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3112639
+Thread 0 Processed: 3112631 packets
+Total number of packets processed: 3112631
+Checksum Total: 106418500397011532
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 2255553
+Thread 0 Processed: 2255545 packets
+Total number of packets processed: 2255545
+Checksum Total: 77383986459028365
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 1473921
+Thread 0 Processed: 1473913 packets
+Total number of packets processed: 1473913
+Checksum Total: 50583109667254469
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 869603
+Thread 0 Processed: 869594 packets
+Total number of packets processed: 869594
+Checksum Total: 29864554280180065
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4305066
+Thread 0 Processed: 4305059 packets
+Total number of packets processed: 4305059
+Checksum Total: 145061391896250672
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3505225
+Thread 0 Processed: 3505217 packets
+Total number of packets processed: 3505217
+Checksum Total: 119198791362464647
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2939249
+Thread 0 Processed: 2939241 packets
+Total number of packets processed: 2939241
+Checksum Total: 100491360228973487
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2200411
+Thread 0 Processed: 2200404 packets
+Total number of packets processed: 2200404
+Checksum Total: 75495089745346620
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1445676
+Thread 0 Processed: 1445668 packets
+Total number of packets processed: 1445668
+Checksum Total: 49614068542103232
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 860628
+Thread 0 Processed: 860619 packets
+Total number of packets processed: 860619
+Checksum Total: 29557747843149622
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4509901
+Thread 0 Processed: 4509896 packets
+Total number of packets processed: 4509896
+Checksum Total: 151958330462432666
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3382642
+Thread 0 Processed: 3382635 packets
+Total number of packets processed: 3382635
+Checksum Total: 115032592445835374
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2869002
+Thread 0 Processed: 2868993 packets
+Total number of packets processed: 2868993
+Checksum Total: 98094884306520049
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2142005
+Thread 0 Processed: 2141997 packets
+Total number of packets processed: 2141997
+Checksum Total: 73490098060338468
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1428684
+Thread 0 Processed: 1428675 packets
+Total number of packets processed: 1428675
+Checksum Total: 49030838041247378
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 854215
+Thread 0 Processed: 854207 packets
+Total number of packets processed: 854207
+Checksum Total: 29336438232398401
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3822250
+Thread 0 Processed: 3822245 packets
+Total number of packets processed: 3822245
+Checksum Total: 128789493740514033
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3416740
+Thread 0 Processed: 3416732 packets
+Total number of packets processed: 3416732
+Checksum Total: 116195846607324383
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2909137
+Thread 0 Processed: 2909129 packets
+Total number of packets processed: 2909129
+Checksum Total: 99464479457923111
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2178599
+Thread 0 Processed: 2178591 packets
+Total number of packets processed: 2178591
+Checksum Total: 74746213262317278
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1439661
+Thread 0 Processed: 1439653 packets
+Total number of packets processed: 1439653
+Checksum Total: 49406508992197396
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 858436
+Thread 0 Processed: 858427 packets
+Total number of packets processed: 858427
+Checksum Total: 29481661824920103
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4051723
+Thread 0 Processed: 4051715 packets
+Total number of packets processed: 4051715
+Checksum Total: 136507301545994794
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3529486
+Thread 0 Processed: 3529478 packets
+Total number of packets processed: 3529478
+Checksum Total: 120023306805987843
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2922274
+Thread 0 Processed: 2922266 packets
+Total number of packets processed: 2922266
+Checksum Total: 99911665506868722
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2188009
+Thread 0 Processed: 2188000 packets
+Total number of packets processed: 2188000
+Checksum Total: 75068824270328082
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1446914
+Thread 0 Processed: 1446905 packets
+Total number of packets processed: 1446905
+Checksum Total: 49656392417748039
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 858694
+Thread 0 Processed: 858686 packets
+Total number of packets processed: 858686
+Checksum Total: 29490685415250122
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 5311781
+Thread 0 Processed: 5311775 packets
+Total number of packets processed: 5311775
+Checksum Total: 178983180634010642
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3795639
+Thread 0 Processed: 3795631 packets
+Total number of packets processed: 3795631
+Checksum Total: 129091879930985120
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3009354
+Thread 0 Processed: 3009346 packets
+Total number of packets processed: 3009346
+Checksum Total: 102890148818768565
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 2232214
+Thread 0 Processed: 2232206 packets
+Total number of packets processed: 2232206
+Checksum Total: 76579900089350467
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 1470044
+Thread 0 Processed: 1470036 packets
+Total number of packets processed: 1470036
+Checksum Total: 50448674391197037
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 867338
+Thread 0 Processed: 867330 packets
+Total number of packets processed: 867330
+Checksum Total: 29787108167059968
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3854666
+Thread 0 Processed: 3854659 packets
+Total number of packets processed: 3854659
+Checksum Total: 129887375056811828
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3489617
+Thread 0 Processed: 3489610 packets
+Total number of packets processed: 3489610
+Checksum Total: 118670026524491707
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2943002
+Thread 0 Processed: 2942994 packets
+Total number of packets processed: 2942994
+Checksum Total: 100619416995031739
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2190246
+Thread 0 Processed: 2190238 packets
+Total number of packets processed: 2190238
+Checksum Total: 75145138544561692
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1447253
+Thread 0 Processed: 1447244 packets
+Total number of packets processed: 1447244
+Checksum Total: 49667564239526191
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 855862
+Thread 0 Processed: 855853 packets
+Total number of packets processed: 855853
+Checksum Total: 29392490359501522
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3715067
+Thread 0 Processed: 3715059 packets
+Total number of packets processed: 3715059
+Checksum Total: 125179192985019604
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3349730
+Thread 0 Processed: 3349722 packets
+Total number of packets processed: 3349722
+Checksum Total: 113912022654779471
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2813239
+Thread 0 Processed: 2813231 packets
+Total number of packets processed: 2813231
+Checksum Total: 96187270548436757
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1878493
+Thread 0 Processed: 1878484 packets
+Total number of packets processed: 1878484
+Checksum Total: 64449050707376923
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1417939
+Thread 0 Processed: 1417931 packets
+Total number of packets processed: 1417931
+Checksum Total: 48661166612017409
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 857796
+Thread 0 Processed: 857787 packets
+Total number of packets processed: 857787
+Checksum Total: 29459129830992622
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 4240766
+Thread 0 Processed: 4240758 packets
+Total number of packets processed: 4240758
+Checksum Total: 142884391958939558
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3438927
+Thread 0 Processed: 3438919 packets
+Total number of packets processed: 3438919
+Checksum Total: 116951603224431967
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2912772
+Thread 0 Processed: 2912764 packets
+Total number of packets processed: 2912764
+Checksum Total: 99589741805042576
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2182622
+Thread 0 Processed: 2182614 packets
+Total number of packets processed: 2182614
+Checksum Total: 74884581292048740
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1440727
+Thread 0 Processed: 1440719 packets
+Total number of packets processed: 1440719
+Checksum Total: 49443710419540078
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 857997
+Thread 0 Processed: 857988 packets
+Total number of packets processed: 857988
+Checksum Total: 29466238425496729
+-------end session-------
+
+nsrc: 1, pkwk: 25, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 5391649
+Thread 0 Processed: 5391642 packets
+Total number of packets processed: 5391642
+Checksum Total: 181675491137802224
+-------end session-------
+
+nsrc: 1, pkwk: 50, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3505368
+Thread 0 Processed: 3505360 packets
+Total number of packets processed: 3505360
+Checksum Total: 119203449300694709
+-------end session-------
+
+nsrc: 1, pkwk: 100, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2954213
+Thread 0 Processed: 2954209 packets
+Total number of packets processed: 2954209
+Checksum Total: 101004525167361705
+-------end session-------
+
+nsrc: 1, pkwk: 200, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 2200631
+Thread 0 Processed: 2200623 packets
+Total number of packets processed: 2200623
+Checksum Total: 75502486111701801
+-------end session-------
+
+nsrc: 1, pkwk: 400, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 1446574
+Thread 0 Processed: 1446566 packets
+Total number of packets processed: 1446566
+Checksum Total: 49644628482367675
+-------end session-------
+
+nsrc: 1, pkwk: 800, npck: -1, seed: 23, tlim: 2.000000
+uflag: 1, pflag: 1, qdepth: 8, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 859382
+Thread 0 Processed: 859373 packets
+Total number of packets processed: 859373
+Checksum Total: 29514415163224230
+-------end session-------
+

@@ -1,0 +1,120 @@
+nsrc: 14, pkwk: 1, npck: -1, tlim: 2.000000
+addpor: 0.000000, rempor: 0.000000, hitrate: 0.330000
+pflag: 2, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 2579831
+Thread 0 Processed: 284890 packets
+Thread 1 Processed: 253799 packets
+Thread 2 Processed: 322596 packets
+Thread 3 Processed: 113305 packets
+Thread 4 Processed: 239488 packets
+Thread 5 Processed: 113236 packets
+Thread 6 Processed: 246543 packets
+Thread 7 Processed: 110280 packets
+Thread 8 Processed: 112081 packets
+Thread 9 Processed: 187248 packets
+Thread 10 Processed: 112303 packets
+Thread 11 Processed: 112679 packets
+Thread 12 Processed: 239004 packets
+Thread 13 Processed: 132391 packets
+Total number of packets processed: 2579843
+Final Table Size: 16
+Checksum Total: 0
+-------end session-------
+
+nsrc: 14, pkwk: 1, npck: -1, tlim: 2.000000
+addpor: 0.000000, rempor: 0.000000, hitrate: 0.330000
+pflag: 2, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 3754689
+Thread 0 Processed: 170291 packets
+Thread 1 Processed: 168841 packets
+Thread 2 Processed: 420384 packets
+Thread 3 Processed: 167529 packets
+Thread 4 Processed: 390511 packets
+Thread 5 Processed: 256970 packets
+Thread 6 Processed: 375782 packets
+Thread 7 Processed: 276409 packets
+Thread 8 Processed: 241561 packets
+Thread 9 Processed: 170499 packets
+Thread 10 Processed: 347581 packets
+Thread 11 Processed: 168955 packets
+Thread 12 Processed: 366997 packets
+Thread 13 Processed: 232390 packets
+Total number of packets processed: 3754700
+Final Table Size: 16
+Checksum Total: 0
+-------end session-------
+
+nsrc: 14, pkwk: 1, npck: -1, tlim: 2.000000
+addpor: 0.000000, rempor: 0.000000, hitrate: 0.330000
+pflag: 2, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 4060798
+Thread 0 Processed: 268798 packets
+Thread 1 Processed: 304153 packets
+Thread 2 Processed: 284861 packets
+Thread 3 Processed: 302848 packets
+Thread 4 Processed: 274137 packets
+Thread 5 Processed: 223412 packets
+Thread 6 Processed: 344373 packets
+Thread 7 Processed: 295514 packets
+Thread 8 Processed: 282779 packets
+Thread 9 Processed: 330273 packets
+Thread 10 Processed: 272847 packets
+Thread 11 Processed: 329341 packets
+Thread 12 Processed: 250683 packets
+Thread 13 Processed: 296785 packets
+Total number of packets processed: 4060804
+Final Table Size: 16
+Checksum Total: 0
+-------end session-------
+
+nsrc: 14, pkwk: 1, npck: -1, tlim: 2.000000
+addpor: 0.000000, rempor: 0.000000, hitrate: 0.330000
+pflag: 2, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 3816256
+Thread 0 Processed: 369809 packets
+Thread 1 Processed: 336817 packets
+Thread 2 Processed: 182287 packets
+Thread 3 Processed: 179873 packets
+Thread 4 Processed: 351959 packets
+Thread 5 Processed: 183060 packets
+Thread 6 Processed: 177329 packets
+Thread 7 Processed: 177074 packets
+Thread 8 Processed: 349755 packets
+Thread 9 Processed: 231663 packets
+Thread 10 Processed: 367791 packets
+Thread 11 Processed: 255653 packets
+Thread 12 Processed: 211206 packets
+Thread 13 Processed: 441988 packets
+Total number of packets processed: 3816264
+Final Table Size: 16
+Checksum Total: 0
+-------end session-------
+
+nsrc: 14, pkwk: 1, npck: -1, tlim: 2.000000
+addpor: 0.000000, rempor: 0.000000, hitrate: 0.330000
+pflag: 2, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 3913303
+Thread 0 Processed: 286848 packets
+Thread 1 Processed: 242798 packets
+Thread 2 Processed: 269738 packets
+Thread 3 Processed: 297356 packets
+Thread 4 Processed: 285437 packets
+Thread 5 Processed: 335899 packets
+Thread 6 Processed: 261904 packets
+Thread 7 Processed: 283904 packets
+Thread 8 Processed: 274278 packets
+Thread 9 Processed: 278598 packets
+Thread 10 Processed: 283382 packets
+Thread 11 Processed: 278270 packets
+Thread 12 Processed: 279952 packets
+Thread 13 Processed: 254951 packets
+Total number of packets processed: 3913315
+Final Table Size: 16
+Checksum Total: 0
+-------end session-------
+

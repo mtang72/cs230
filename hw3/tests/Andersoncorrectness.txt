@@ -1,0 +1,127 @@
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Thread 0 contributed increments: 681352
+Variance of thread work: 0
+Counter Final: 681352
+Runtime: 14.764000
+----------------------------
+
+nthreads: 2 lockmode: 2, fairness: 1
+--begin--
+Thread 0 contributed increments: 340676
+Thread 1 contributed increments: 340676
+Variance of thread work: 0
+Counter Final: 681352
+Runtime: 338.674011
+----------------------------
+
+nthreads: 4 lockmode: 2, fairness: 1
+--begin--
+Thread 0 contributed increments: 170338
+Thread 1 contributed increments: 170338
+Thread 2 contributed increments: 170338
+Thread 3 contributed increments: 170338
+Variance of thread work: 0
+Counter Final: 681352
+Runtime: 483.738007
+----------------------------
+
+nthreads: 8 lockmode: 2, fairness: 1
+--begin--
+Thread 0 contributed increments: 85169
+Thread 1 contributed increments: 85169
+Thread 2 contributed increments: 85169
+Thread 3 contributed increments: 85169
+Thread 4 contributed increments: 85169
+Thread 5 contributed increments: 85169
+Thread 6 contributed increments: 85169
+Thread 7 contributed increments: 85169
+Variance of thread work: 0
+Counter Final: 681352
+Runtime: 764.833008
+----------------------------
+
+nthreads: 14 lockmode: 2, fairness: 1
+--begin--
+Thread 0 contributed increments: 48668
+Thread 1 contributed increments: 48668
+Thread 2 contributed increments: 48668
+Thread 3 contributed increments: 48668
+Thread 4 contributed increments: 48668
+Thread 5 contributed increments: 48668
+Thread 6 contributed increments: 48668
+Thread 7 contributed increments: 48668
+Thread 8 contributed increments: 48668
+Thread 9 contributed increments: 48668
+Thread 10 contributed increments: 48668
+Thread 11 contributed increments: 48668
+Thread 12 contributed increments: 48668
+Thread 13 contributed increments: 48668
+Variance of thread work: 0
+Counter Final: 681352
+Runtime: 847.023987
+----------------------------
+
+nthreads: 56 lockmode: 2, fairness: 1
+--begin--
+Thread 0 contributed increments: 12167
+Thread 1 contributed increments: 12167
+Thread 2 contributed increments: 12167
+Thread 3 contributed increments: 12167
+Thread 4 contributed increments: 12167
+Thread 5 contributed increments: 12167
+Thread 6 contributed increments: 12167
+Thread 7 contributed increments: 12167
+Thread 8 contributed increments: 12167
+Thread 9 contributed increments: 12167
+Thread 10 contributed increments: 12167
+Thread 11 contributed increments: 12167
+Thread 12 contributed increments: 12167
+Thread 13 contributed increments: 12167
+Thread 14 contributed increments: 12167
+Thread 15 contributed increments: 12167
+Thread 16 contributed increments: 12167
+Thread 17 contributed increments: 12167
+Thread 18 contributed increments: 12167
+Thread 19 contributed increments: 12167
+Thread 20 contributed increments: 12167
+Thread 21 contributed increments: 12167
+Thread 22 contributed increments: 12167
+Thread 23 contributed increments: 12167
+Thread 24 contributed increments: 12167
+Thread 25 contributed increments: 12167
+Thread 26 contributed increments: 12167
+Thread 27 contributed increments: 12167
+Thread 28 contributed increments: 12167
+Thread 29 contributed increments: 12167
+Thread 30 contributed increments: 12167
+Thread 31 contributed increments: 12167
+Thread 32 contributed increments: 12167
+Thread 33 contributed increments: 12167
+Thread 34 contributed increments: 12167
+Thread 35 contributed increments: 12167
+Thread 36 contributed increments: 12167
+Thread 37 contributed increments: 12167
+Thread 38 contributed increments: 12167
+Thread 39 contributed increments: 12167
+Thread 40 contributed increments: 12167
+Thread 41 contributed increments: 12167
+Thread 42 contributed increments: 12167
+Thread 43 contributed increments: 12167
+Thread 44 contributed increments: 12167
+Thread 45 contributed increments: 12167
+Thread 46 contributed increments: 12167
+Thread 47 contributed increments: 12167
+Thread 48 contributed increments: 12167
+Thread 49 contributed increments: 12167
+Thread 50 contributed increments: 12167
+Thread 51 contributed increments: 12167
+Thread 52 contributed increments: 12167
+Thread 53 contributed increments: 12167
+Thread 54 contributed increments: 12167
+Thread 55 contributed increments: 12167
+Variance of thread work: 0
+Counter Final: 681352
+Runtime: 12363.901367
+----------------------------
+

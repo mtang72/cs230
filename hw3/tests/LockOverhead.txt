@@ -1,0 +1,300 @@
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.210000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.306000
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 101.247002
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.394001
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 63.273998
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.072000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 57.235001
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 110.177002
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 61.978001
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 59.654999
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.107000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 57.207001
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 110.059998
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.169998
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.722000
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.122000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.507999
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 101.133003
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.186001
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.018002
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.126000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.273998
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 101.376999
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.119999
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 59.410999
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.130000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.022999
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 101.051003
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.084000
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.533001
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.150000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.123001
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 101.276001
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.349998
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 59.737000
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.118000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.584999
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 110.519997
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.338001
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 59.422001
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.084000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 56.734001
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 101.025002
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.342999
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.966999
+----------------------------
+
+nthreads: 0 lockmode: -1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 8.104000
+----------------------------
+
+nthreads: 1 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 60.036999
+----------------------------
+
+nthreads: 1 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 110.138000
+----------------------------
+
+nthreads: 1 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.414001
+----------------------------
+
+nthreads: 1 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 2725408
+Runtime: 62.458000
+----------------------------
+

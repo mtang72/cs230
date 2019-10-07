@@ -1,0 +1,730 @@
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 259644
+Total number of packets processed: 259644
+Final Table Size: 16384
+Checksum Total: 8914322995578718
+Add Checksum Total: 797742658541967
+Remove Checksum Total: 85306065630866
+Remains Checksum Total: 712436592911101
+Add equals Remove + Remains? Yes
+Total Contains Hits: 210377
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 259042
+Total number of packets processed: 259042
+Final Table Size: 65536
+Checksum Total: 8894689111428278
+Add Checksum Total: 4000376855481000
+Remove Checksum Total: 441683783963492
+Remains Checksum Total: 3558693071517508
+Add equals Remove + Remains? Yes
+Total Contains Hits: 116512
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1670100
+Thread 0 Processed: 119591 packets
+Thread 1 Processed: 114301 packets
+Thread 2 Processed: 131559 packets
+Thread 3 Processed: 119999 packets
+Thread 4 Processed: 99442 packets
+Thread 5 Processed: 136655 packets
+Thread 6 Processed: 126475 packets
+Thread 7 Processed: 119427 packets
+Thread 8 Processed: 127007 packets
+Thread 9 Processed: 117599 packets
+Thread 10 Processed: 109822 packets
+Thread 11 Processed: 126814 packets
+Thread 12 Processed: 115759 packets
+Thread 13 Processed: 105648 packets
+Total number of packets processed: 1670098
+Final Table Size: 65536
+Checksum Total: 57383578774908767
+Add Checksum Total: 5143379985778014
+Remove Checksum Total: 564695249003874
+Remains Checksum Total: 4578684736774140
+Add equals Remove + Remains? Yes
+Total Contains Hits: 1354043
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1634106
+Thread 0 Processed: 115613 packets
+Thread 1 Processed: 116624 packets
+Thread 2 Processed: 118708 packets
+Thread 3 Processed: 118691 packets
+Thread 4 Processed: 114279 packets
+Thread 5 Processed: 118223 packets
+Thread 6 Processed: 114832 packets
+Thread 7 Processed: 115531 packets
+Thread 8 Processed: 115264 packets
+Thread 9 Processed: 116814 packets
+Thread 10 Processed: 118286 packets
+Thread 11 Processed: 117504 packets
+Thread 12 Processed: 114469 packets
+Thread 13 Processed: 119261 packets
+Total number of packets processed: 1634099
+Final Table Size: 262144
+Checksum Total: 56176624341984425
+Add Checksum Total: 25259020066038590
+Remove Checksum Total: 2805423969673914
+Remains Checksum Total: 22453596096364676
+Add equals Remove + Remains? Yes
+Total Contains Hits: 735542
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 1172958
+Thread 0 Processed: 84347 packets
+Thread 1 Processed: 83116 packets
+Thread 2 Processed: 83476 packets
+Thread 3 Processed: 82971 packets
+Thread 4 Processed: 83673 packets
+Thread 5 Processed: 82569 packets
+Thread 6 Processed: 84720 packets
+Thread 7 Processed: 84104 packets
+Thread 8 Processed: 83275 packets
+Thread 9 Processed: 84754 packets
+Thread 10 Processed: 84906 packets
+Thread 11 Processed: 83420 packets
+Thread 12 Processed: 84839 packets
+Thread 13 Processed: 82746 packets
+Total number of packets processed: 1172916
+Final Table Size: 131072
+Checksum Total: 40298418175753470
+Add Checksum Total: 3601144292234987
+Remove Checksum Total: 395795688767757
+Remains Checksum Total: 3205348603467230
+Add equals Remove + Remains? Yes
+Total Contains Hits: 951054
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 564256
+Thread 0 Processed: 40424 packets
+Thread 1 Processed: 39938 packets
+Thread 2 Processed: 40802 packets
+Thread 3 Processed: 41007 packets
+Thread 4 Processed: 39809 packets
+Thread 5 Processed: 40237 packets
+Thread 6 Processed: 40783 packets
+Thread 7 Processed: 40173 packets
+Thread 8 Processed: 39854 packets
+Thread 9 Processed: 40089 packets
+Thread 10 Processed: 40136 packets
+Thread 11 Processed: 40470 packets
+Thread 12 Processed: 40353 packets
+Thread 13 Processed: 40126 packets
+Total number of packets processed: 564201
+Final Table Size: 524288
+Checksum Total: 19390600406846814
+Add Checksum Total: 8731083180246344
+Remove Checksum Total: 963683156828425
+Remains Checksum Total: 7767400023417919
+Add equals Remove + Remains? Yes
+Total Contains Hits: 253745
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 350297
+Total number of packets processed: 350297
+Final Table Size: 16384
+Checksum Total: 12031020904524803
+Add Checksum Total: 1077129819150653
+Remove Checksum Total: 116831839275033
+Remains Checksum Total: 960297979875620
+Add equals Remove + Remains? Yes
+Total Contains Hits: 283885
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 254332
+Total number of packets processed: 254332
+Final Table Size: 65536
+Checksum Total: 8732227279726702
+Add Checksum Total: 3927092182303426
+Remove Checksum Total: 435133231892443
+Remains Checksum Total: 3491958950410983
+Add equals Remove + Remains? Yes
+Total Contains Hits: 114396
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1685841
+Thread 0 Processed: 123231 packets
+Thread 1 Processed: 123978 packets
+Thread 2 Processed: 118560 packets
+Thread 3 Processed: 129184 packets
+Thread 4 Processed: 118720 packets
+Thread 5 Processed: 119792 packets
+Thread 6 Processed: 121889 packets
+Thread 7 Processed: 120894 packets
+Thread 8 Processed: 118388 packets
+Thread 9 Processed: 116694 packets
+Thread 10 Processed: 124256 packets
+Thread 11 Processed: 121914 packets
+Thread 12 Processed: 120868 packets
+Thread 13 Processed: 107473 packets
+Total number of packets processed: 1685841
+Final Table Size: 65536
+Checksum Total: 57925768806187585
+Add Checksum Total: 5194821411070838
+Remove Checksum Total: 569552703430818
+Remains Checksum Total: 4625268707640020
+Add equals Remove + Remains? Yes
+Total Contains Hits: 1366813
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1532328
+Thread 0 Processed: 109307 packets
+Thread 1 Processed: 108571 packets
+Thread 2 Processed: 111340 packets
+Thread 3 Processed: 108093 packets
+Thread 4 Processed: 110549 packets
+Thread 5 Processed: 110081 packets
+Thread 6 Processed: 107553 packets
+Thread 7 Processed: 108884 packets
+Thread 8 Processed: 108776 packets
+Thread 9 Processed: 108681 packets
+Thread 10 Processed: 111386 packets
+Thread 11 Processed: 109445 packets
+Thread 12 Processed: 109367 packets
+Thread 13 Processed: 110268 packets
+Total number of packets processed: 1532301
+Final Table Size: 262144
+Checksum Total: 52675093890194657
+Add Checksum Total: 23681365608721355
+Remove Checksum Total: 2632216043125976
+Remains Checksum Total: 21049149565595379
+Add equals Remove + Remains? Yes
+Total Contains Hits: 689669
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 1305328
+Thread 0 Processed: 93188 packets
+Thread 1 Processed: 93344 packets
+Thread 2 Processed: 94199 packets
+Thread 3 Processed: 93337 packets
+Thread 4 Processed: 93009 packets
+Thread 5 Processed: 93617 packets
+Thread 6 Processed: 93439 packets
+Thread 7 Processed: 93829 packets
+Thread 8 Processed: 93581 packets
+Thread 9 Processed: 92738 packets
+Thread 10 Processed: 92648 packets
+Thread 11 Processed: 92303 packets
+Thread 12 Processed: 92236 packets
+Thread 13 Processed: 93818 packets
+Total number of packets processed: 1305286
+Final Table Size: 131072
+Checksum Total: 44841798663941309
+Add Checksum Total: 4016760373145527
+Remove Checksum Total: 441521816001970
+Remains Checksum Total: 3575238557143557
+Add equals Remove + Remains? Yes
+Total Contains Hits: 1058040
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 554595
+Thread 0 Processed: 39239 packets
+Thread 1 Processed: 39347 packets
+Thread 2 Processed: 40085 packets
+Thread 3 Processed: 39825 packets
+Thread 4 Processed: 40039 packets
+Thread 5 Processed: 39640 packets
+Thread 6 Processed: 39775 packets
+Thread 7 Processed: 39090 packets
+Thread 8 Processed: 39392 packets
+Thread 9 Processed: 39860 packets
+Thread 10 Processed: 39561 packets
+Thread 11 Processed: 39463 packets
+Thread 12 Processed: 39535 packets
+Thread 13 Processed: 39713 packets
+Total number of packets processed: 554564
+Final Table Size: 262144
+Checksum Total: 19057825967272240
+Add Checksum Total: 8582207738140926
+Remove Checksum Total: 947235835949027
+Remains Checksum Total: 7634971902191899
+Add equals Remove + Remains? Yes
+Total Contains Hits: 249393
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 352071
+Total number of packets processed: 352071
+Final Table Size: 16384
+Checksum Total: 12091930762608607
+Add Checksum Total: 1081416619056429
+Remove Checksum Total: 117386339426726
+Remains Checksum Total: 964030279629703
+Add equals Remove + Remains? Yes
+Total Contains Hits: 285346
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 254748
+Total number of packets processed: 254748
+Final Table Size: 65536
+Checksum Total: 8746362705650784
+Add Checksum Total: 3933146113470347
+Remove Checksum Total: 435872973526415
+Remains Checksum Total: 3497273139943932
+Add equals Remove + Remains? Yes
+Total Contains Hits: 114582
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1610746
+Thread 0 Processed: 131521 packets
+Thread 1 Processed: 132612 packets
+Thread 2 Processed: 130343 packets
+Thread 3 Processed: 131487 packets
+Thread 4 Processed: 99073 packets
+Thread 5 Processed: 121454 packets
+Thread 6 Processed: 111985 packets
+Thread 7 Processed: 97388 packets
+Thread 8 Processed: 127156 packets
+Thread 9 Processed: 95731 packets
+Thread 10 Processed: 96405 packets
+Thread 11 Processed: 106658 packets
+Thread 12 Processed: 131588 packets
+Thread 13 Processed: 97347 packets
+Total number of packets processed: 1610748
+Final Table Size: 65536
+Checksum Total: 55340825088982333
+Add Checksum Total: 4956166026027700
+Remove Checksum Total: 544867566121060
+Remains Checksum Total: 4411298459906640
+Add equals Remove + Remains? Yes
+Total Contains Hits: 1306002
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1664019
+Thread 0 Processed: 121856 packets
+Thread 1 Processed: 121346 packets
+Thread 2 Processed: 120665 packets
+Thread 3 Processed: 117727 packets
+Thread 4 Processed: 117310 packets
+Thread 5 Processed: 119045 packets
+Thread 6 Processed: 120820 packets
+Thread 7 Processed: 118915 packets
+Thread 8 Processed: 117298 packets
+Thread 9 Processed: 117019 packets
+Thread 10 Processed: 118171 packets
+Thread 11 Processed: 118016 packets
+Thread 12 Processed: 115823 packets
+Thread 13 Processed: 119993 packets
+Total number of packets processed: 1664004
+Final Table Size: 262144
+Checksum Total: 57205223267224967
+Add Checksum Total: 25728496394736700
+Remove Checksum Total: 2854111184496112
+Remains Checksum Total: 22874385210240588
+Add equals Remove + Remains? Yes
+Total Contains Hits: 748932
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 1131751
+Thread 0 Processed: 81514 packets
+Thread 1 Processed: 80871 packets
+Thread 2 Processed: 79867 packets
+Thread 3 Processed: 80673 packets
+Thread 4 Processed: 81656 packets
+Thread 5 Processed: 79532 packets
+Thread 6 Processed: 79372 packets
+Thread 7 Processed: 81815 packets
+Thread 8 Processed: 80183 packets
+Thread 9 Processed: 80629 packets
+Thread 10 Processed: 81842 packets
+Thread 11 Processed: 81584 packets
+Thread 12 Processed: 80018 packets
+Thread 13 Processed: 82135 packets
+Total number of packets processed: 1131691
+Final Table Size: 131072
+Checksum Total: 38884082837287057
+Add Checksum Total: 3475210574282446
+Remove Checksum Total: 383018784923822
+Remains Checksum Total: 3092191789358624
+Add equals Remove + Remains? Yes
+Total Contains Hits: 917663
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 568024
+Thread 0 Processed: 40782 packets
+Thread 1 Processed: 40817 packets
+Thread 2 Processed: 40504 packets
+Thread 3 Processed: 40288 packets
+Thread 4 Processed: 40537 packets
+Thread 5 Processed: 40604 packets
+Thread 6 Processed: 40907 packets
+Thread 7 Processed: 40581 packets
+Thread 8 Processed: 40214 packets
+Thread 9 Processed: 40835 packets
+Thread 10 Processed: 40726 packets
+Thread 11 Processed: 40226 packets
+Thread 12 Processed: 40417 packets
+Thread 13 Processed: 40543 packets
+Total number of packets processed: 567981
+Final Table Size: 524288
+Checksum Total: 19520365114139023
+Add Checksum Total: 8790069217102273
+Remove Checksum Total: 970004154441414
+Remains Checksum Total: 7820065062660859
+Add equals Remove + Remains? Yes
+Total Contains Hits: 255479
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 349513
+Total number of packets processed: 349513
+Final Table Size: 16384
+Checksum Total: 12005229595312813
+Add Checksum Total: 1074866009918628
+Remove Checksum Total: 116575965919191
+Remains Checksum Total: 958290043999437
+Add equals Remove + Remains? Yes
+Total Contains Hits: 283250
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 254252
+Total number of packets processed: 254252
+Final Table Size: 65536
+Checksum Total: 8729321513597173
+Add Checksum Total: 3925715222533263
+Remove Checksum Total: 434921814011581
+Remains Checksum Total: 3490793408521682
+Add equals Remove + Remains? Yes
+Total Contains Hits: 114361
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1655758
+Thread 0 Processed: 116949 packets
+Thread 1 Processed: 114813 packets
+Thread 2 Processed: 135859 packets
+Thread 3 Processed: 135574 packets
+Thread 4 Processed: 112175 packets
+Thread 5 Processed: 106076 packets
+Thread 6 Processed: 113759 packets
+Thread 7 Processed: 104242 packets
+Thread 8 Processed: 125309 packets
+Thread 9 Processed: 112847 packets
+Thread 10 Processed: 126109 packets
+Thread 11 Processed: 103751 packets
+Thread 12 Processed: 134211 packets
+Thread 13 Processed: 114089 packets
+Total number of packets processed: 1655763
+Final Table Size: 65536
+Checksum Total: 56891392152359730
+Add Checksum Total: 5098254117001136
+Remove Checksum Total: 559984323540339
+Remains Checksum Total: 4538269793460797
+Add equals Remove + Remains? Yes
+Total Contains Hits: 1342481
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1581166
+Thread 0 Processed: 114384 packets
+Thread 1 Processed: 112424 packets
+Thread 2 Processed: 111934 packets
+Thread 3 Processed: 113115 packets
+Thread 4 Processed: 113589 packets
+Thread 5 Processed: 112042 packets
+Thread 6 Processed: 112803 packets
+Thread 7 Processed: 112517 packets
+Thread 8 Processed: 112594 packets
+Thread 9 Processed: 113380 packets
+Thread 10 Processed: 113128 packets
+Thread 11 Processed: 113131 packets
+Thread 12 Processed: 112916 packets
+Thread 13 Processed: 113203 packets
+Total number of packets processed: 1581160
+Final Table Size: 262144
+Checksum Total: 54354366721553368
+Add Checksum Total: 24445173957627339
+Remove Checksum Total: 2715560682270951
+Remains Checksum Total: 21729613275356388
+Add equals Remove + Remains? Yes
+Total Contains Hits: 711583
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 1240420
+Thread 0 Processed: 88904 packets
+Thread 1 Processed: 88202 packets
+Thread 2 Processed: 88543 packets
+Thread 3 Processed: 88395 packets
+Thread 4 Processed: 88147 packets
+Thread 5 Processed: 89273 packets
+Thread 6 Processed: 88418 packets
+Thread 7 Processed: 88532 packets
+Thread 8 Processed: 88501 packets
+Thread 9 Processed: 88304 packets
+Thread 10 Processed: 88339 packets
+Thread 11 Processed: 88994 packets
+Thread 12 Processed: 88848 packets
+Thread 13 Processed: 88947 packets
+Total number of packets processed: 1240347
+Final Table Size: 131072
+Checksum Total: 42608765009869534
+Add Checksum Total: 3815213481458664
+Remove Checksum Total: 418755887130449
+Remains Checksum Total: 3396457594328215
+Add equals Remove + Remains? Yes
+Total Contains Hits: 1005563
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 556632
+Thread 0 Processed: 40054 packets
+Thread 1 Processed: 39870 packets
+Thread 2 Processed: 39507 packets
+Thread 3 Processed: 39835 packets
+Thread 4 Processed: 40023 packets
+Thread 5 Processed: 40049 packets
+Thread 6 Processed: 39835 packets
+Thread 7 Processed: 39320 packets
+Thread 8 Processed: 39741 packets
+Thread 9 Processed: 39391 packets
+Thread 10 Processed: 40105 packets
+Thread 11 Processed: 39687 packets
+Thread 12 Processed: 39439 packets
+Thread 13 Processed: 39762 packets
+Total number of packets processed: 556618
+Final Table Size: 524288
+Checksum Total: 19128366703061380
+Add Checksum Total: 8613022759062533
+Remove Checksum Total: 950439511945222
+Remains Checksum Total: 7662583247117311
+Add equals Remove + Remains? Yes
+Total Contains Hits: 250351
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 353113
+Total number of packets processed: 353113
+Final Table Size: 16384
+Checksum Total: 12127863470607012
+Add Checksum Total: 1084872714451265
+Remove Checksum Total: 117650374751800
+Remains Checksum Total: 967222339699465
+Add equals Remove + Remains? Yes
+Total Contains Hits: 286186
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 0, qdepth: 8, htype: 0
+-------begin session-------
+Total number of packets dispatched: 254154
+Total number of packets processed: 254154
+Final Table Size: 65536
+Checksum Total: 8726371134736025
+Add Checksum Total: 3924504476026201
+Remove Checksum Total: 434748026645849
+Remains Checksum Total: 3489756449380352
+Add equals Remove + Remains? Yes
+Total Contains Hits: 114317
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1578864
+Thread 0 Processed: 124571 packets
+Thread 1 Processed: 112100 packets
+Thread 2 Processed: 126544 packets
+Thread 3 Processed: 111465 packets
+Thread 4 Processed: 112604 packets
+Thread 5 Processed: 114520 packets
+Thread 6 Processed: 97280 packets
+Thread 7 Processed: 126913 packets
+Thread 8 Processed: 108308 packets
+Thread 9 Processed: 114395 packets
+Thread 10 Processed: 110870 packets
+Thread 11 Processed: 109377 packets
+Thread 12 Processed: 94967 packets
+Thread 13 Processed: 114952 packets
+Total number of packets processed: 1578866
+Final Table Size: 65536
+Checksum Total: 54248827374818952
+Add Checksum Total: 4858372247069634
+Remove Checksum Total: 533395715109435
+Remains Checksum Total: 4324976531960199
+Add equals Remove + Remains? Yes
+Total Contains Hits: 1280104
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 1
+-------begin session-------
+Total number of packets dispatched: 1618959
+Thread 0 Processed: 114824 packets
+Thread 1 Processed: 116810 packets
+Thread 2 Processed: 116838 packets
+Thread 3 Processed: 114273 packets
+Thread 4 Processed: 117755 packets
+Thread 5 Processed: 115732 packets
+Thread 6 Processed: 116635 packets
+Thread 7 Processed: 116069 packets
+Thread 8 Processed: 114503 packets
+Thread 9 Processed: 115136 packets
+Thread 10 Processed: 113447 packets
+Thread 11 Processed: 113955 packets
+Thread 12 Processed: 115552 packets
+Thread 13 Processed: 117422 packets
+Total number of packets processed: 1618951
+Final Table Size: 262144
+Checksum Total: 55656992985691569
+Add Checksum Total: 25029579860686645
+Remove Checksum Total: 2779127402068012
+Remains Checksum Total: 22250452458618633
+Add equals Remove + Remains? Yes
+Total Contains Hits: 728665
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.090000, rempor: 0.010000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 1201959
+Thread 0 Processed: 86225 packets
+Thread 1 Processed: 85998 packets
+Thread 2 Processed: 86488 packets
+Thread 3 Processed: 85172 packets
+Thread 4 Processed: 85600 packets
+Thread 5 Processed: 86644 packets
+Thread 6 Processed: 86472 packets
+Thread 7 Processed: 85836 packets
+Thread 8 Processed: 85295 packets
+Thread 9 Processed: 86969 packets
+Thread 10 Processed: 84561 packets
+Thread 11 Processed: 84806 packets
+Thread 12 Processed: 86053 packets
+Thread 13 Processed: 85816 packets
+Total number of packets processed: 1201935
+Final Table Size: 131072
+Checksum Total: 41290347225059026
+Add Checksum Total: 3694049399543467
+Remove Checksum Total: 405565723821395
+Remains Checksum Total: 3288483675722072
+Add equals Remove + Remains? Yes
+Total Contains Hits: 974451
+-------end session-------
+
+nsrc: 14, pkwk: 4000, npck: -1, tlim: 2.000000
+addpor: 0.450000, rempor: 0.050000, hitrate: 0.900000
+pflag: 1, qdepth: 8, htype: 2
+-------begin session-------
+Total number of packets dispatched: 561373
+Thread 0 Processed: 41170 packets
+Thread 1 Processed: 40014 packets
+Thread 2 Processed: 40399 packets
+Thread 3 Processed: 39723 packets
+Thread 4 Processed: 39957 packets
+Thread 5 Processed: 39816 packets
+Thread 6 Processed: 40436 packets
+Thread 7 Processed: 40020 packets
+Thread 8 Processed: 39936 packets
+Thread 9 Processed: 39707 packets
+Thread 10 Processed: 39506 packets
+Thread 11 Processed: 40310 packets
+Thread 12 Processed: 40171 packets
+Thread 13 Processed: 40123 packets
+Total number of packets processed: 561288
+Final Table Size: 524288
+Checksum Total: 19289202060509684
+Add Checksum Total: 8685193998778455
+Remove Checksum Total: 958427253705350
+Remains Checksum Total: 7726766745073105
+Add equals Remove + Remains? Yes
+Total Contains Hits: 252483
+-------end session-------
+

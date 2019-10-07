@@ -1,0 +1,300 @@
+nsrc: 27, pkwk: 500, npck: 131, tlim: -0.001000
+addpor: 0.300000, rempor: 0.200000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 512
+Checksum Total: 123618905028037
+Add Checksum Total: 36087253354917
+Remove Checksum Total: 25327384237071
+Remains Checksum Total: 10759869117846
+Add equals Remove + Remains? Yes
+Total Contains Hits: 882
+-------end session-------
+
+nsrc: 27, pkwk: 1000, npck: 131, tlim: -0.001000
+addpor: 0.300000, rempor: 0.200000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 512
+Checksum Total: 122386813180571
+Add Checksum Total: 35722947505793
+Remove Checksum Total: 25639817048626
+Remains Checksum Total: 10083130457167
+Add equals Remove + Remains? Yes
+Total Contains Hits: 882
+-------end session-------
+
+nsrc: 27, pkwk: 2000, npck: 131, tlim: -0.001000
+addpor: 0.300000, rempor: 0.200000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 512
+Checksum Total: 121352347504795
+Add Checksum Total: 35327825976340
+Remove Checksum Total: 25383225944854
+Remains Checksum Total: 9944600031486
+Add equals Remove + Remains? Yes
+Total Contains Hits: 882
+-------end session-------
+
+nsrc: 27, pkwk: 4000, npck: 131, tlim: -0.001000
+addpor: 0.300000, rempor: 0.200000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 512
+Checksum Total: 121418893102345
+Add Checksum Total: 35423976999050
+Remove Checksum Total: 25042349983877
+Remains Checksum Total: 10381627015173
+Add equals Remove + Remains? Yes
+Total Contains Hits: 882
+-------end session-------
+
+nsrc: 27, pkwk: 8000, npck: 131, tlim: -0.001000
+addpor: 0.300000, rempor: 0.200000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 512
+Checksum Total: 122732714285207
+Add Checksum Total: 36150399282764
+Remove Checksum Total: 25383552125327
+Remains Checksum Total: 10766847157437
+Add equals Remove + Remains? Yes
+Total Contains Hits: 882
+-------end session-------
+
+nsrc: 27, pkwk: 500, npck: 131, tlim: -0.001000
+addpor: 0.000000, rempor: 1.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 32
+Checksum Total: 122816969514088
+Add Checksum Total: 61986025524942
+Remove Checksum Total: 61924631172615
+Remains Checksum Total: 61394352327
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 1000, npck: 131, tlim: -0.001000
+addpor: 0.000000, rempor: 1.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 32
+Checksum Total: 123306828947620
+Add Checksum Total: 61523700128634
+Remove Checksum Total: 61500022025435
+Remains Checksum Total: 23678103199
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 2000, npck: 131, tlim: -0.001000
+addpor: 0.000000, rempor: 1.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 32
+Checksum Total: 123329862675386
+Add Checksum Total: 62356493684216
+Remove Checksum Total: 62334271954746
+Remains Checksum Total: 22221729470
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 4000, npck: 131, tlim: -0.001000
+addpor: 0.000000, rempor: 1.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 32
+Checksum Total: 121795091562945
+Add Checksum Total: 60745364237593
+Remove Checksum Total: 60723142508123
+Remains Checksum Total: 22221729470
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 8000, npck: 131, tlim: -0.001000
+addpor: 0.000000, rempor: 1.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 32
+Checksum Total: 121915032345423
+Add Checksum Total: 61649448771478
+Remove Checksum Total: 61626139820786
+Remains Checksum Total: 23308950692
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 500, npck: 131, tlim: -0.001000
+addpor: 1.000000, rempor: 0.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 4096
+Checksum Total: 122816969514088
+Add Checksum Total: 122816969514088
+Remove Checksum Total: 61729806096
+Remains Checksum Total: 122755239707992
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 1000, npck: 131, tlim: -0.001000
+addpor: 1.000000, rempor: 0.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 4096
+Checksum Total: 123306828947620
+Add Checksum Total: 123306828947620
+Remove Checksum Total: 54389240608
+Remains Checksum Total: 123252439707012
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 2000, npck: 131, tlim: -0.001000
+addpor: 1.000000, rempor: 0.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 4096
+Checksum Total: 123329862675386
+Add Checksum Total: 123329862675386
+Remove Checksum Total: 34443891964
+Remains Checksum Total: 123295418783422
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 4000, npck: 131, tlim: -0.001000
+addpor: 1.000000, rempor: 0.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 4096
+Checksum Total: 121795091562945
+Add Checksum Total: 121795091562945
+Remove Checksum Total: 56037936087
+Remains Checksum Total: 121739053626858
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 8000, npck: 131, tlim: -0.001000
+addpor: 1.000000, rempor: 0.000000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Final Table Size: 4096
+Checksum Total: 121915032345423
+Add Checksum Total: 121915032345423
+Remove Checksum Total: 56037936087
+Remains Checksum Total: 121858994409336
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 500, npck: 1311, tlim: -0.001000
+addpor: 0.900000, rempor: 0.100000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 35397
+Total number of packets processed: 35397
+Final Table Size: 32768
+Checksum Total: 1207561969146917
+Add Checksum Total: 1085311390566596
+Remove Checksum Total: 123827084314293
+Remains Checksum Total: 961484306252303
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 1000, npck: 1311, tlim: -0.001000
+addpor: 0.900000, rempor: 0.100000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 35397
+Total number of packets processed: 35397
+Final Table Size: 32768
+Checksum Total: 1214750110404286
+Add Checksum Total: 1092596344356157
+Remove Checksum Total: 123763340145179
+Remains Checksum Total: 968833004210978
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 2000, npck: 1311, tlim: -0.001000
+addpor: 0.900000, rempor: 0.100000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 35397
+Total number of packets processed: 35397
+Final Table Size: 32768
+Checksum Total: 1213195097428910
+Add Checksum Total: 1091684277172045
+Remove Checksum Total: 124418131873411
+Remains Checksum Total: 967266145298634
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 4000, npck: 1311, tlim: -0.001000
+addpor: 0.900000, rempor: 0.100000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 35397
+Total number of packets processed: 35397
+Final Table Size: 32768
+Checksum Total: 1210876210302461
+Add Checksum Total: 1089061833903482
+Remove Checksum Total: 123458209998560
+Remains Checksum Total: 965603623904922
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+
+nsrc: 27, pkwk: 8000, npck: 1311, tlim: -0.001000
+addpor: 0.900000, rempor: 0.100000, hitrate: 0.500000
+pflag: 0, qdepth: 8
+-------begin session-------
+Total number of packets dispatched: 35397
+Total number of packets processed: 35397
+Final Table Size: 32768
+Checksum Total: 1215689140042989
+Add Checksum Total: 1093125834541839
+Remove Checksum Total: 123075786505408
+Remains Checksum Total: 970050048036431
+Add equals Remove + Remains? Yes
+Total Contains Hits: 0
+-------end session-------
+

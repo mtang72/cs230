@@ -1,0 +1,21 @@
+#!/bin/sh
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 0 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 1 -L 0 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 1 -L 1 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 1 -L 2 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 1 -L 3 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 2 -L 0 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 2 -L 1 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 2 -L 2 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -p 1 -S 2 -L 3 -o actual_correctness.txt
+printf "\n-------exponential-------\n" >> actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 0 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 1 -L 0 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 1 -L 1 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 1 -L 2 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 1 -L 3 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 2 -L 0 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 2 -L 1 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 2 -L 2 -o actual_correctness.txt
+../pacver -n 27 -W 800 -T 131072 -x 23 -u 0 -p 1 -S 2 -L 3 -o actual_correctness.txt

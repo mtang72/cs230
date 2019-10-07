@@ -1,0 +1,182 @@
+nsrc: 27, pkwk: 1000, npck: 131, tlim: -0.001000
+addpor: 0.500000, rempor: 0.500000, conpor: 0.000000
+pflag: 0, qdepth: 131
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Checksum Total: 121725607437736
+-------end session-------
+
+nsrc: 27, pkwk: 2000, npck: 131, tlim: -0.001000
+addpor: 0.500000, rempor: 0.500000, conpor: 0.000000
+pflag: 0, qdepth: 131
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Checksum Total: 120455393585791
+-------end session-------
+
+nsrc: 27, pkwk: 4000, npck: 131, tlim: -0.001000
+addpor: 0.500000, rempor: 0.500000, conpor: 0.000000
+pflag: 0, qdepth: 131
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Checksum Total: 120899877674147
+-------end session-------
+
+nsrc: 27, pkwk: 8000, npck: 131, tlim: -0.001000
+addpor: 0.500000, rempor: 0.500000, conpor: 0.000000
+pflag: 0, qdepth: 131
+-------begin session-------
+Total number of packets dispatched: 3537
+Total number of packets processed: 3537
+Checksum Total: 122222774979725
+-------end session-------
+
+
+-------parallel-------
+nsrc: 27, pkwk: 1000, npck: 131, tlim: -0.001000
+addpor: 0.500000, rempor: 0.500000, conpor: 0.000000
+pflag: 1, qdepth: 131
+-------begin session-------
+Total number of packets dispatched: 3537
+Thread 0 Processed: 131 packets
+Thread 1 Processed: 131 packets
+Thread 2 Processed: 131 packets
+Thread 3 Processed: 131 packets
+Thread 4 Processed: 131 packets
+Thread 5 Processed: 131 packets
+Thread 6 Processed: 131 packets
+Thread 7 Processed: 131 packets
+Thread 8 Processed: 131 packets
+Thread 9 Processed: 131 packets
+Thread 10 Processed: 131 packets
+Thread 11 Processed: 131 packets
+Thread 12 Processed: 131 packets
+Thread 13 Processed: 131 packets
+Thread 14 Processed: 131 packets
+Thread 15 Processed: 131 packets
+Thread 16 Processed: 131 packets
+Thread 17 Processed: 131 packets
+Thread 18 Processed: 131 packets
+Thread 19 Processed: 131 packets
+Thread 20 Processed: 131 packets
+Thread 21 Processed: 131 packets
+Thread 22 Processed: 131 packets
+Thread 23 Processed: 131 packets
+Thread 24 Processed: 131 packets
+Thread 25 Processed: 131 packets
+Thread 26 Processed: 131 packets
+Total number of packets processed: 3537
+Checksum Total: 121725607437736
+-------end session-------
+
+nsrc: 27, pkwk: 2000, npck: 131, tlim: -0.001000
+addpor: 0.500000, rempor: 0.500000, conpor: 0.000000
+pflag: 1, qdepth: 131
+-------begin session-------
+Total number of packets dispatched: 3537
+Thread 0 Processed: 131 packets
+Thread 1 Processed: 131 packets
+Thread 2 Processed: 131 packets
+Thread 3 Processed: 131 packets
+Thread 4 Processed: 131 packets
+Thread 5 Processed: 131 packets
+Thread 6 Processed: 131 packets
+Thread 7 Processed: 131 packets
+Thread 8 Processed: 131 packets
+Thread 9 Processed: 131 packets
+Thread 10 Processed: 131 packets
+Thread 11 Processed: 131 packets
+Thread 12 Processed: 131 packets
+Thread 13 Processed: 131 packets
+Thread 14 Processed: 131 packets
+Thread 15 Processed: 131 packets
+Thread 16 Processed: 131 packets
+Thread 17 Processed: 131 packets
+Thread 18 Processed: 131 packets
+Thread 19 Processed: 131 packets
+Thread 20 Processed: 131 packets
+Thread 21 Processed: 131 packets
+Thread 22 Processed: 131 packets
+Thread 23 Processed: 131 packets
+Thread 24 Processed: 131 packets
+Thread 25 Processed: 131 packets
+Thread 26 Processed: 131 packets
+Total number of packets processed: 3537
+Checksum Total: 120455393585791
+-------end session-------
+
+nsrc: 27, pkwk: 4000, npck: 131, tlim: -0.001000
+addpor: 0.500000, rempor: 0.500000, conpor: 0.000000
+pflag: 1, qdepth: 131
+-------begin session-------
+Total number of packets dispatched: 3537
+Thread 0 Processed: 131 packets
+Thread 1 Processed: 131 packets
+Thread 2 Processed: 131 packets
+Thread 3 Processed: 131 packets
+Thread 4 Processed: 131 packets
+Thread 5 Processed: 131 packets
+Thread 6 Processed: 131 packets
+Thread 7 Processed: 131 packets
+Thread 8 Processed: 131 packets
+Thread 9 Processed: 131 packets
+Thread 10 Processed: 131 packets
+Thread 11 Processed: 131 packets
+Thread 12 Processed: 131 packets
+Thread 13 Processed: 131 packets
+Thread 14 Processed: 131 packets
+Thread 15 Processed: 131 packets
+Thread 16 Processed: 131 packets
+Thread 17 Processed: 131 packets
+Thread 18 Processed: 131 packets
+Thread 19 Processed: 131 packets
+Thread 20 Processed: 131 packets
+Thread 21 Processed: 131 packets
+Thread 22 Processed: 131 packets
+Thread 23 Processed: 131 packets
+Thread 24 Processed: 131 packets
+Thread 25 Processed: 131 packets
+Thread 26 Processed: 131 packets
+Total number of packets processed: 3537
+Checksum Total: 120899877674147
+-------end session-------
+
+nsrc: 27, pkwk: 8000, npck: 131, tlim: -0.001000
+addpor: 0.500000, rempor: 0.500000, conpor: 0.000000
+pflag: 1, qdepth: 131
+-------begin session-------
+Total number of packets dispatched: 3537
+Thread 0 Processed: 131 packets
+Thread 1 Processed: 131 packets
+Thread 2 Processed: 131 packets
+Thread 3 Processed: 131 packets
+Thread 4 Processed: 131 packets
+Thread 5 Processed: 131 packets
+Thread 6 Processed: 131 packets
+Thread 7 Processed: 131 packets
+Thread 8 Processed: 131 packets
+Thread 9 Processed: 131 packets
+Thread 10 Processed: 131 packets
+Thread 11 Processed: 131 packets
+Thread 12 Processed: 131 packets
+Thread 13 Processed: 131 packets
+Thread 14 Processed: 131 packets
+Thread 15 Processed: 131 packets
+Thread 16 Processed: 131 packets
+Thread 17 Processed: 131 packets
+Thread 18 Processed: 131 packets
+Thread 19 Processed: 131 packets
+Thread 20 Processed: 131 packets
+Thread 21 Processed: 131 packets
+Thread 22 Processed: 131 packets
+Thread 23 Processed: 131 packets
+Thread 24 Processed: 131 packets
+Thread 25 Processed: 131 packets
+Thread 26 Processed: 131 packets
+Total number of packets processed: 3537
+Checksum Total: 122222774979725
+-------end session-------
+

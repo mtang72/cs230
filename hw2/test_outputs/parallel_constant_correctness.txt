@@ -1,0 +1,200 @@
+enq source: 0 chksum: 26173647220
+source: 0 chksum: 26173647220
+enq source: 1 chksum: 3647705974
+enq source: 2 chksum: 13662709748
+enq source: 3 chksum: 14757799546
+enq source: 4 chksum: 57072605341
+enq source: 5 chksum: 46359716023
+enq source: 6 chksum: 8931041831
+enq source: 7 chksum: 1633548029
+enq source: 8 chksum: 39950212666
+enq source: 9 chksum: 36892302995
+enq source: 0 chksum: 49435175254
+source: 0 chksum: 49435175254
+enq source: 1 chksum: 19849142881
+enq source: 2 chksum: 54886153122
+enq source: 3 chksum: 57843979892
+enq source: 4 chksum: 448436231
+enq source: 5 chksum: 35333082688
+enq source: 6 chksum: 22325455044
+enq source: 7 chksum: 39473239668
+enq source: 8 chksum: 65524380404
+enq source: 9 chksum: 29546683229
+enq source: 0 chksum: 59240537306
+enq source: 1 chksum: 52923476752
+source: 0 chksum: 59240537306
+enq source: 2 chksum: 5472039068
+enq source: 3 chksum: 65834881407
+enq source: 4 chksum: 40161770913
+enq source: 5 chksum: 12028774585
+enq source: 6 chksum: 8208563612
+enq source: 7 chksum: 2728926844
+enq source: 8 chksum: 31349202224
+enq source: 9 chksum: 22440208244
+enq source: 0 chksum: 2726444252
+source: 0 chksum: 2726444252
+enq source: 1 chksum: 37619162361
+enq source: 2 chksum: 13279147279
+enq source: 3 chksum: 28539440816
+enq source: 4 chksum: 16118698764
+enq source: 5 chksum: 54272091590
+enq source: 6 chksum: 47351440032
+enq source: 7 chksum: 54851749679
+enq source: 8 chksum: 35338156490
+enq source: 9 chksum: 64232483394
+enq source: 0 chksum: 26345536844
+source: 0 chksum: 26345536844
+enq source: 1 chksum: 17985019599
+enq source: 2 chksum: 46528695514
+enq source: 3 chksum: 827423207
+enq source: 4 chksum: 52307138932
+enq source: 5 chksum: 54702295040
+enq source: 6 chksum: 32381282499
+enq source: 7 chksum: 67747002064
+enq source: 8 chksum: 49584485379
+enq source: 9 chksum: 9411592713
+enq source: 0 chksum: 37804327017
+source: 0 chksum: 37804327017
+enq source: 1 chksum: 40407225291
+enq source: 2 chksum: 28855076421
+enq source: 3 chksum: 54088775670
+enq source: 4 chksum: 39576432059
+enq source: 5 chksum: 48457778706
+enq source: 6 chksum: 8317569303
+enq source: 7 chksum: 8960335588
+enq source: 8 chksum: 38134446555
+enq source: 9 chksum: 59619212328
+enq source: 0 chksum: 7094390485
+source: 0 chksum: 7094390485
+enq source: 1 chksum: 26583844457
+enq source: 2 chksum: 56258348068
+enq source: 3 chksum: 15389982683
+enq source: 4 chksum: 52446765856
+enq source: 5 chksum: 48456443227
+enq source: 6 chksum: 50895514571
+enq source: 7 chksum: 57206051224
+enq source: 8 chksum: 33934576888
+enq source: 9 chksum: 46730172901
+enq source: 0 chksum: 12803292489
+source: 0 chksum: 12803292489
+enq source: 1 chksum: 54886335510
+enq source: 2 chksum: 68696612754
+enq source: 3 chksum: 65797111373
+enq source: 4 chksum: 49992610629
+enq source: 5 chksum: 16470312488
+enq source: 6 chksum: 62843212304
+enq source: 7 chksum: 21541414401
+enq source: 8 chksum: 22730667160
+enq source: 9 chksum: 37030076205
+enq source: 0 chksum: 5859686710
+source: 0 chksum: 5859686710
+enq source: 1 chksum: 66598871984
+enq source: 2 chksum: 12827078911
+enq source: 3 chksum: 67458714796
+enq source: 4 chksum: 57808582819
+enq source: 5 chksum: 67709368565
+enq source: 6 chksum: 38766439336
+enq source: 7 chksum: 62307295009
+enq source: 8 chksum: 21649100549
+enq source: 9 chksum: 17232556969
+enq source: 0 chksum: 23666266311
+source: 0 chksum: 23666266311
+enq source: 1 chksum: 55228978625
+enq source: 2 chksum: 54595895530
+enq source: 3 chksum: 63416119274
+enq source: 4 chksum: 60246154233
+enq source: 5 chksum: 8149646231
+enq source: 6 chksum: 22287194668
+enq source: 7 chksum: 17576531574
+enq source: 8 chksum: 42105091861
+enq source: 9 chksum: 31844034714
+source: 1 chksum: 3647705974
+source: 1 chksum: 19849142881
+source: 1 chksum: 52923476752
+source: 1 chksum: 37619162361
+source: 1 chksum: 17985019599
+source: 1 chksum: 40407225291
+source: 1 chksum: 26583844457
+source: 1 chksum: 54886335510
+source: 1 chksum: 66598871984
+source: 1 chksum: 55228978625
+source: 2 chksum: 13662709748
+source: 2 chksum: 54886153122
+source: 2 chksum: 5472039068
+source: 2 chksum: 13279147279
+source: 2 chksum: 46528695514
+source: 2 chksum: 28855076421
+source: 2 chksum: 56258348068
+source: 2 chksum: 68696612754
+source: 2 chksum: 12827078911
+source: 2 chksum: 54595895530
+source: 3 chksum: 14757799546
+source: 3 chksum: 57843979892
+source: 3 chksum: 65834881407
+source: 3 chksum: 28539440816
+source: 3 chksum: 827423207
+source: 3 chksum: 54088775670
+source: 3 chksum: 15389982683
+source: 3 chksum: 65797111373
+source: 3 chksum: 67458714796
+source: 3 chksum: 63416119274
+source: 4 chksum: 57072605341
+source: 4 chksum: 448436231
+source: 4 chksum: 40161770913
+source: 4 chksum: 16118698764
+source: 4 chksum: 52307138932
+source: 4 chksum: 39576432059
+source: 4 chksum: 52446765856
+source: 4 chksum: 49992610629
+source: 4 chksum: 57808582819
+source: 4 chksum: 60246154233
+source: 5 chksum: 46359716023
+source: 5 chksum: 35333082688
+source: 5 chksum: 12028774585
+source: 5 chksum: 54272091590
+source: 6 chksum: 8931041831
+source: 5 chksum: 54702295040
+source: 6 chksum: 22325455044
+source: 6 chksum: 8208563612
+source: 6 chksum: 47351440032
+source: 6 chksum: 32381282499
+source: 6 chksum: 8317569303
+source: 5 chksum: 48457778706
+source: 7 chksum: 1633548029
+source: 5 chksum: 48456443227
+source: 7 chksum: 39473239668
+source: 5 chksum: 16470312488
+source: 7 chksum: 2728926844
+source: 5 chksum: 67709368565
+source: 7 chksum: 54851749679
+source: 6 chksum: 50895514571
+source: 5 chksum: 8149646231
+source: 7 chksum: 67747002064
+source: 7 chksum: 8960335588
+source: 7 chksum: 57206051224
+source: 6 chksum: 62843212304
+source: 7 chksum: 21541414401
+source: 6 chksum: 38766439336
+source: 7 chksum: 62307295009
+source: 9 chksum: 36892302995
+source: 7 chksum: 17576531574
+source: 9 chksum: 29546683229
+source: 9 chksum: 22440208244
+source: 6 chksum: 22287194668
+source: 9 chksum: 64232483394
+source: 8 chksum: 39950212666
+source: 8 chksum: 65524380404
+source: 8 chksum: 31349202224
+source: 8 chksum: 35338156490
+source: 9 chksum: 9411592713
+source: 9 chksum: 59619212328
+source: 9 chksum: 46730172901
+source: 9 chksum: 37030076205
+source: 8 chksum: 49584485379
+source: 9 chksum: 17232556969
+source: 8 chksum: 38134446555
+source: 9 chksum: 31844034714
+source: 8 chksum: 33934576888
+source: 8 chksum: 22730667160
+source: 8 chksum: 21649100549
+source: 8 chksum: 42105091861

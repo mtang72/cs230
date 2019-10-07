@@ -1,0 +1,640 @@
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: 0, opmode: 2
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: 1, opmode: 2
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: 2, opmode: 2
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 1, pflag: 1, qdepth: 131072, lockmode: 3, opmode: 2
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121561951918351580
+-------end session-------
+
+
+-------exponential-------
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 0, qdepth: 131072, lockmode: -1, opmode: -1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: -1, opmode: 0
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: 0, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: 1, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: 2, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: 3, opmode: 1
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: 0, opmode: 2
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: 1, opmode: 2
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: 2, opmode: 2
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+
+nsrc: 27, pkwk: 800, npck: 131072, seed: 23, tlim: -0.001000
+uflag: 0, pflag: 1, qdepth: 131072, lockmode: 3, opmode: 2
+-------begin session-------
+Total number of packets dispatched: 3538944
+Thread 0 Processed: 131072 packets
+Thread 1 Processed: 131072 packets
+Thread 2 Processed: 131072 packets
+Thread 3 Processed: 131072 packets
+Thread 4 Processed: 131072 packets
+Thread 5 Processed: 131072 packets
+Thread 6 Processed: 131072 packets
+Thread 7 Processed: 131072 packets
+Thread 8 Processed: 131072 packets
+Thread 9 Processed: 131072 packets
+Thread 10 Processed: 131072 packets
+Thread 11 Processed: 131072 packets
+Thread 12 Processed: 131072 packets
+Thread 13 Processed: 131072 packets
+Thread 14 Processed: 131072 packets
+Thread 15 Processed: 131072 packets
+Thread 16 Processed: 131072 packets
+Thread 17 Processed: 131072 packets
+Thread 18 Processed: 131072 packets
+Thread 19 Processed: 131072 packets
+Thread 20 Processed: 131072 packets
+Thread 21 Processed: 131072 packets
+Thread 22 Processed: 131072 packets
+Thread 23 Processed: 131072 packets
+Thread 24 Processed: 131072 packets
+Thread 25 Processed: 131072 packets
+Thread 26 Processed: 131072 packets
+Total number of packets processed: 3538944
+Checksum Total: 121568530461133654
+-------end session-------
+

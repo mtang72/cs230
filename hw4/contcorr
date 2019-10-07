@@ -1,0 +1,40 @@
+#!/bin/sh
+./pachand -n 27 -W 500 -T 1311 -A 0.3 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 1000 -T 1311 -A 0.3 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 2000 -T 1311 -A 0.3 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 4000 -T 1311 -A 0.3 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 8000 -T 1311 -A 0.3 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 500 -T 1311 -A 0 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 1000 -T 1311 -A 0 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 2000 -T 1311 -A 0 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 4000 -T 1311 -A 0 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 8000 -T 1311 -A 0 -R 0 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 500 -T 1311 -A 0 -R 0.6 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 1000 -T 1311 -A 0 -R 0.6 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 2000 -T 1311 -A 0 -R 0.6 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 4000 -T 1311 -A 0 -R 0.6 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 8000 -T 1311 -A 0 -R 0.6 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 500 -T 13111 -A 0.3 -R 0.2 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 1000 -T 13111 -A 0.3 -R 0.2 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 2000 -T 13111 -A 0.3 -R 0.2 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 4000 -T 13111 -A 0.3 -R 0.2 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 8000 -T 13111 -A 0.3 -R 0.2 -h 0.5 -o tests/contains_correctness.txt
+./pachand -n 27 -W 500 -T 1311 -A 0.3 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 1000 -T 1311 -A 0.3 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 2000 -T 1311 -A 0.3 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 4000 -T 1311 -A 0.3 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 8000 -T 1311 -A 0.3 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 1000 -T 1311 -A 0 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 2000 -T 1311 -A 0 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 4000 -T 1311 -A 0 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 8000 -T 1311 -A 0 -R 0 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 500 -T 1311 -A 0 -R 0.6 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 1000 -T 1311 -A 0 -R 0.6 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 2000 -T 1311 -A 0 -R 0.6 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 4000 -T 1311 -A 0 -R 0.6 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 8000 -T 1311 -A 0 -R 0.6 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 500 -T 13111 -A 0.3 -R 0.2 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 1000 -T 13111 -A 0.3 -R 0.2 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 2000 -T 13111 -A 0.3 -R 0.2 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 4000 -T 13111 -A 0.3 -R 0.2 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt
+./pachand -n 27 -W 8000 -T 13111 -A 0.3 -R 0.2 -h 0.5 -p 1 -H 1 -o tests/contains_correctness.txt

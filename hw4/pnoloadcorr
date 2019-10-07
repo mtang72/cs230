@@ -1,0 +1,10 @@
+#!/bin/sh
+./pachand -n 27 -W 1000 -T 131 -A 0.5 -R 0.5 -h 0.5 -p 0 -o tests/hashq_correctness.txt
+./pachand -n 27 -W 2000 -T 131 -A 0.5 -R 0.5 -h 0.5 -p 0 -o tests/hashq_correctness.txt
+./pachand -n 27 -W 4000 -T 131 -A 0.5 -R 0.5 -h 0.5 -p 0 -o tests/hashq_correctness.txt
+./pachand -n 27 -W 8000 -T 131 -A 0.5 -R 0.5 -h 0.5 -p 0 -o tests/hashq_correctness.txt
+printf "\n-------parallel-------\n" >> tests/hashq_correctness.txt
+./pachand -n 27 -W 1000 -T 131 -A 0.5 -R 0.5 -h 0.5 -p 2 -o tests/hashq_correctness.txt
+./pachand -n 27 -W 2000 -T 131 -A 0.5 -R 0.5 -h 0.5 -p 2 -o tests/hashq_correctness.txt
+./pachand -n 27 -W 4000 -T 131 -A 0.5 -R 0.5 -h 0.5 -p 2 -o tests/hashq_correctness.txt
+./pachand -n 27 -W 8000 -T 131 -A 0.5 -R 0.5 -h 0.5 -p 2 -o tests/hashq_correctness.txt

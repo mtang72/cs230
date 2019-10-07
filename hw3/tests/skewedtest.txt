@@ -1,0 +1,24 @@
+nthreads: 56 lockmode: 0, fairness: 1
+--begin--
+Counter Final: 112
+Runtime: 112079.648438
+----------------------------
+
+nthreads: 56 lockmode: 1, fairness: 1
+--begin--
+Counter Final: 112
+Runtime: 112009.148438
+----------------------------
+
+nthreads: 56 lockmode: 2, fairness: 1
+--begin--
+Counter Final: 112
+Runtime: 112668.242188
+----------------------------
+
+nthreads: 56 lockmode: 3, fairness: 1
+--begin--
+Counter Final: 112
+Runtime: 112849.539062
+----------------------------
+

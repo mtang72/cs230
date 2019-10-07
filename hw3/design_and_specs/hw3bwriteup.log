@@ -1,0 +1,425 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  21 MAY 2019 18:55
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**hw3bwriteup.tex
+(./hw3bwriteup.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count100
+\cp@tempcnt=\count101
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(./hw3bwriteup.aux)
+\openout1 = `hw3bwriteup.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen115
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 19.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
+ [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (10.8842pt too wide) in paragraph at lines 38--41
+\OT1/cmr/m/n/10 Awesome mode has each thread start with the queue that they wou
+ld be at-tached to in Home-Queue/LockFree,
+ []
+
+[2]
+<b_overhead2freeData.png, id=16, 538.01pt x 141.52875pt>
+File: b_overhead2freeData.png Graphic file (type png)
+<use b_overhead2freeData.png>
+Package pdftex.def Info: b_overhead2freeData.png  used on input line 53.
+(pdftex.def)             Requested size: 458.811pt x 120.69519pt.
+<b_overhead2freeGraph.png, id=18, 601.24625pt x 372.39125pt>
+File: b_overhead2freeGraph.png Graphic file (type png)
+<use b_overhead2freeGraph.png>
+Package pdftex.def Info: b_overhead2freeGraph.png  used on input line 55.
+(pdftex.def)             Requested size: 458.811pt x 284.17946pt.
+<b_overhead2sqData.png, id=19, 506.89375pt x 140.525pt>
+File: b_overhead2sqData.png Graphic file (type png)
+<use b_overhead2sqData.png>
+Package pdftex.def Info: b_overhead2sqData.png  used on input line 60.
+(pdftex.def)             Requested size: 458.811pt x 127.19821pt.
+<b_overhead2sqGraph.png, id=20, 599.23875pt x 371.3875pt>
+File: b_overhead2sqGraph.png Graphic file (type png)
+<use b_overhead2sqGraph.png>
+Package pdftex.def Info: b_overhead2sqGraph.png  used on input line 62.
+(pdftex.def)             Requested size: 458.811pt x 284.35985pt.
+ [3 <./b_overhead2freeData.png>] [4 <./b_overhead2freeGraph.png>]
+<b_uni1000Data.png, id=30, 641.39626pt x 138.5175pt>
+File: b_uni1000Data.png Graphic file (type png)
+<use b_uni1000Data.png>
+Package pdftex.def Info: b_uni1000Data.png  used on input line 68.
+(pdftex.def)             Requested size: 458.811pt x 99.08786pt.
+<b_uni1000Graph.png, id=31, 602.25pt x 372.39125pt>
+File: b_uni1000Graph.png Graphic file (type png)
+<use b_uni1000Graph.png>
+Package pdftex.def Info: b_uni1000Graph.png  used on input line 70.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+<b_uni2000Data.png, id=32, 632.3625pt x 140.525pt>
+File: b_uni2000Data.png Graphic file (type png)
+<use b_uni2000Data.png>
+Package pdftex.def Info: b_uni2000Data.png  used on input line 79.
+(pdftex.def)             Requested size: 458.811pt x 101.96056pt.
+<b_uni2000Graph.png, id=33, 602.25pt x 372.39125pt>
+File: b_uni2000Graph.png Graphic file (type png)
+<use b_uni2000Graph.png>
+Package pdftex.def Info: b_uni2000Graph.png  used on input line 81.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+<b_uni4000Data.png, id=34, 607.26875pt x 141.52875pt>
+File: b_uni4000Data.png Graphic file (type png)
+<use b_uni4000Data.png>
+Package pdftex.def Info: b_uni4000Data.png  used on input line 86.
+(pdftex.def)             Requested size: 458.811pt x 106.93237pt.
+<b_uni4000Graph.png, id=35, 602.25pt x 372.39125pt>
+File: b_uni4000Graph.png Graphic file (type png)
+<use b_uni4000Graph.png>
+Package pdftex.def Info: b_uni4000Graph.png  used on input line 88.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+<b_uni8000Data.png, id=36, 582.175pt x 142.5325pt>
+File: b_uni8000Data.png Graphic file (type png)
+<use b_uni8000Data.png>
+Package pdftex.def Info: b_uni8000Data.png  used on input line 92.
+(pdftex.def)             Requested size: 458.811pt x 112.33191pt.
+<b_uni8000Graph.png, id=37, 602.25pt x 372.39125pt>
+File: b_uni8000Graph.png Graphic file (type png)
+<use b_uni8000Graph.png>
+Package pdftex.def Info: b_uni8000Graph.png  used on input line 94.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+ [5 <./b_overhead2sqData.png> <./b_overhead2sqGraph.png>] [6 <./b_uni1000Data.p
+ng> <./b_uni1000Graph.png>] [7 <./b_uni2000Data.png>] [8 <./b_uni2000Graph.png>
+] [9 <./b_uni4000Data.png> <./b_uni4000Graph.png>]
+<b_exp1000Data.png, id=62, 624.3325pt x 139.52126pt>
+File: b_exp1000Data.png Graphic file (type png)
+<use b_exp1000Data.png>
+Package pdftex.def Info: b_exp1000Data.png  used on input line 102.
+(pdftex.def)             Requested size: 458.811pt x 102.53304pt.
+<b_exp1000Graph.png, id=63, 602.25pt x 372.39125pt>
+File: b_exp1000Graph.png Graphic file (type png)
+<use b_exp1000Graph.png>
+Package pdftex.def Info: b_exp1000Graph.png  used on input line 104.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+<b_exp2000Data.png, id=64, 614.295pt x 139.52126pt>
+File: b_exp2000Data.png Graphic file (type png)
+<use b_exp2000Data.png>
+Package pdftex.def Info: b_exp2000Data.png  used on input line 109.
+(pdftex.def)             Requested size: 458.811pt x 104.2085pt.
+<b_exp2000Graph.png, id=65, 602.25pt x 372.39125pt>
+File: b_exp2000Graph.png Graphic file (type png)
+<use b_exp2000Graph.png>
+Package pdftex.def Info: b_exp2000Graph.png  used on input line 111.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+<b_exp4000Data.png, id=66, 613.29124pt x 143.53625pt>
+File: b_exp4000Data.png Graphic file (type png)
+<use b_exp4000Data.png>
+Package pdftex.def Info: b_exp4000Data.png  used on input line 115.
+(pdftex.def)             Requested size: 458.811pt x 107.38252pt.
+<b_exp4000Graph.png, id=67, 602.25pt x 372.39125pt>
+File: b_exp4000Graph.png Graphic file (type png)
+<use b_exp4000Graph.png>
+Package pdftex.def Info: b_exp4000Graph.png  used on input line 117.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+<b_exp8000Data.png, id=68, 584.1825pt x 143.53625pt>
+File: b_exp8000Data.png Graphic file (type png)
+<use b_exp8000Data.png>
+Package pdftex.def Info: b_exp8000Data.png  used on input line 121.
+(pdftex.def)             Requested size: 458.811pt x 112.73532pt.
+<b_exp8000Graph.png, id=69, 602.25pt x 372.39125pt>
+File: b_exp8000Graph.png Graphic file (type png)
+<use b_exp8000Graph.png>
+Package pdftex.def Info: b_exp8000Graph.png  used on input line 123.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+ [10 <./b_uni8000Data.png> <./b_uni8000Graph.png>] [11 <./b_exp1000Data.png> <.
+/b_exp1000Graph.png>] [12 <./b_exp2000Data.png> <./b_exp2000Graph.png>] [13 <./
+b_exp4000Data.png> <./b_exp4000Graph.png>]
+<b_awe1000Data.png, id=91, 595.22375pt x 140.525pt>
+File: b_awe1000Data.png Graphic file (type png)
+<use b_awe1000Data.png>
+Package pdftex.def Info: b_awe1000Data.png  used on input line 131.
+(pdftex.def)             Requested size: 458.811pt x 108.3182pt.
+<b_awe1000Graph.png, id=92, 601.24625pt x 371.3875pt>
+File: b_awe1000Graph.png Graphic file (type png)
+<use b_awe1000Graph.png>
+Package pdftex.def Info: b_awe1000Graph.png  used on input line 133.
+(pdftex.def)             Requested size: 458.811pt x 283.41347pt.
+<b_awe2000Data.png, id=93, 596.2275pt x 141.52875pt>
+File: b_awe2000Data.png Graphic file (type png)
+<use b_awe2000Data.png>
+Package pdftex.def Info: b_awe2000Data.png  used on input line 139.
+(pdftex.def)             Requested size: 458.811pt x 108.91052pt.
+<b_awe2000Graph.png, id=94, 601.24625pt x 373.395pt>
+File: b_awe2000Graph.png Graphic file (type png)
+<use b_awe2000Graph.png>
+Package pdftex.def Info: b_awe2000Graph.png  used on input line 141.
+(pdftex.def)             Requested size: 458.811pt x 284.94545pt.
+<b_awe4000Data.png, id=95, 597.23125pt x 140.525pt>
+File: b_awe4000Data.png Graphic file (type png)
+<use b_awe4000Data.png>
+Package pdftex.def Info: b_awe4000Data.png  used on input line 146.
+(pdftex.def)             Requested size: 458.811pt x 107.95584pt.
+<b_awe4000Graph.png, id=96, 600.2425pt x 371.3875pt>
+File: b_awe4000Graph.png Graphic file (type png)
+<use b_awe4000Graph.png>
+Package pdftex.def Info: b_awe4000Graph.png  used on input line 148.
+(pdftex.def)             Requested size: 458.811pt x 283.8895pt.
+<b_awe8000Data.png, id=97, 582.175pt x 138.5175pt>
+File: b_awe8000Data.png Graphic file (type png)
+<use b_awe8000Data.png>
+Package pdftex.def Info: b_awe8000Data.png  used on input line 153.
+(pdftex.def)             Requested size: 458.811pt x 109.16763pt.
+<b_awe8000Graph.png, id=98, 602.25pt x 372.39125pt>
+File: b_awe8000Graph.png Graphic file (type png)
+<use b_awe8000Graph.png>
+Package pdftex.def Info: b_awe8000Graph.png  used on input line 155.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+<b_awefairData.png, id=99, 630.355pt x 142.5325pt>
+File: b_awefairData.png Graphic file (type png)
+<use b_awefairData.png>
+Package pdftex.def Info: b_awefairData.png  used on input line 160.
+(pdftex.def)             Requested size: 458.811pt x 103.74336pt.
+<b_awefairGraph.png, id=100, 602.25pt x 372.39125pt>
+File: b_awefairGraph.png Graphic file (type png)
+<use b_awefairGraph.png>
+Package pdftex.def Info: b_awefairGraph.png  used on input line 162.
+(pdftex.def)             Requested size: 458.811pt x 283.70784pt.
+ [14 <./b_exp8000Data.png> <./b_exp8000Graph.png>] [15 <./b_awe1000Data.png> <.
+/b_awe1000Graph.png>] [16 <./b_awe2000Data.png>] [17 <./b_awe2000Graph.png> <./
+b_awe4000Data.png>] [18 <./b_awe4000Graph.png> <./b_awe8000Data.png>]
+[19 <./b_awe8000Graph.png> <./b_awefairData.png>] [20 <./b_awefairGraph.png>]
+(./hw3bwriteup.aux) ) 
+Here is how much of TeX's memory you used:
+ 2569 strings out of 492649
+ 35765 string characters out of 6129622
+ 104560 words of memory out of 5000000
+ 6383 multiletter control sequences out of 15000+600000
+ 11849 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,27p,1211b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti10.pfb>
+Output written on hw3bwriteup.pdf (20 pages, 1507488 bytes).
+PDF statistics:
+ 162 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+

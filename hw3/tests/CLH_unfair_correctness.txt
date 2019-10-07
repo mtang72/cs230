@@ -1,0 +1,127 @@
+nthreads: 1 lockmode: 3, fairness: 0
+--begin--
+Thread 0 contributed increments: 681352
+Variance of thread work: 0
+Counter Final: 681352
+Runtime: 22.021000
+----------------------------
+
+nthreads: 2 lockmode: 3, fairness: 0
+--begin--
+Thread 0 contributed increments: 288938
+Thread 1 contributed increments: 392415
+Variance of thread work: -1618094913
+Counter Final: 681352
+Runtime: 240.343002
+----------------------------
+
+nthreads: 4 lockmode: 3, fairness: 0
+--begin--
+Thread 0 contributed increments: 195582
+Thread 1 contributed increments: 160772
+Thread 2 contributed increments: 161268
+Thread 3 contributed increments: 163733
+Variance of thread work: 213664704
+Counter Final: 681352
+Runtime: 444.049988
+----------------------------
+
+nthreads: 8 lockmode: 3, fairness: 0
+--begin--
+Thread 0 contributed increments: 92020
+Thread 1 contributed increments: 87137
+Thread 2 contributed increments: 84959
+Thread 3 contributed increments: 83754
+Thread 4 contributed increments: 83260
+Thread 5 contributed increments: 83771
+Thread 6 contributed increments: 82704
+Thread 7 contributed increments: 83754
+Variance of thread work: 8316585
+Counter Final: 681352
+Runtime: 570.651978
+----------------------------
+
+nthreads: 14 lockmode: 3, fairness: 0
+--begin--
+Thread 0 contributed increments: 49024
+Thread 1 contributed increments: 48462
+Thread 2 contributed increments: 48839
+Thread 3 contributed increments: 49899
+Thread 4 contributed increments: 49082
+Thread 5 contributed increments: 48689
+Thread 6 contributed increments: 48553
+Thread 7 contributed increments: 48978
+Thread 8 contributed increments: 47790
+Thread 9 contributed increments: 47647
+Thread 10 contributed increments: 49182
+Thread 11 contributed increments: 49051
+Thread 12 contributed increments: 48136
+Thread 13 contributed increments: 48033
+Variance of thread work: 350385
+Counter Final: 681352
+Runtime: 613.309021
+----------------------------
+
+nthreads: 56 lockmode: 3, fairness: 0
+--begin--
+Thread 0 contributed increments: 9911
+Thread 1 contributed increments: 10964
+Thread 2 contributed increments: 9808
+Thread 3 contributed increments: 14015
+Thread 4 contributed increments: 14374
+Thread 5 contributed increments: 14488
+Thread 6 contributed increments: 11163
+Thread 7 contributed increments: 15676
+Thread 8 contributed increments: 10169
+Thread 9 contributed increments: 13274
+Thread 10 contributed increments: 13572
+Thread 11 contributed increments: 8504
+Thread 12 contributed increments: 13879
+Thread 13 contributed increments: 11767
+Thread 14 contributed increments: 15269
+Thread 15 contributed increments: 14214
+Thread 16 contributed increments: 11041
+Thread 17 contributed increments: 15621
+Thread 18 contributed increments: 6961
+Thread 19 contributed increments: 13636
+Thread 20 contributed increments: 16680
+Thread 21 contributed increments: 15492
+Thread 22 contributed increments: 11461
+Thread 23 contributed increments: 12623
+Thread 24 contributed increments: 12739
+Thread 25 contributed increments: 17078
+Thread 26 contributed increments: 9818
+Thread 27 contributed increments: 15678
+Thread 28 contributed increments: 8026
+Thread 29 contributed increments: 12098
+Thread 30 contributed increments: 12594
+Thread 31 contributed increments: 10389
+Thread 32 contributed increments: 12750
+Thread 33 contributed increments: 12096
+Thread 34 contributed increments: 13028
+Thread 35 contributed increments: 8905
+Thread 36 contributed increments: 10293
+Thread 37 contributed increments: 10550
+Thread 38 contributed increments: 10617
+Thread 39 contributed increments: 12166
+Thread 40 contributed increments: 7774
+Thread 41 contributed increments: 11406
+Thread 42 contributed increments: 13510
+Thread 43 contributed increments: 13883
+Thread 44 contributed increments: 9851
+Thread 45 contributed increments: 8111
+Thread 46 contributed increments: 8881
+Thread 47 contributed increments: 9772
+Thread 48 contributed increments: 14627
+Thread 49 contributed increments: 13576
+Thread 50 contributed increments: 16536
+Thread 51 contributed increments: 10490
+Thread 52 contributed increments: 12299
+Thread 53 contributed increments: 11213
+Thread 54 contributed increments: 15278
+Thread 55 contributed increments: 10813
+Variance of thread work: 6064095
+Counter Final: 681352
+Runtime: 17332.845703
+----------------------------
+
